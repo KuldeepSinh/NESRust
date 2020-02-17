@@ -1,2 +1,2 @@
 # NESRust
-A NES emulator; made with Rust
+A NES emulator; being made with Rust!
